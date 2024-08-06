@@ -1,8 +1,9 @@
 # Stock Price Viewer
 
 A Flutter application that connects to a WebSocket server to receive and display the latest stock prices. The application follows a clean architecture approach, ensuring a modular, maintainable, and testable codebase.
-Websocket URL:- wss://websocket-example-zh0u.onrender.com
-Github url of backend :-https://github.com/cracked2626/websocket-example.git
+
+## Websocket URL:- wss://websocket-example-zh0u.onrender.com
+## Github url of backend :-https://github.com/cracked2626/websocket-example.git
 
 ## Table of Contents
 
